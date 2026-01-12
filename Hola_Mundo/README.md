@@ -1,4 +1,4 @@
-# Aplicación GUI en Go para Manjaro
+# Hola Mundo GUI en Go para Manjaro
 Descripción
 
 Interfaz gráfica nativa para Linux creada con Go y Fyne. Aplicación de escritorio moderna para Manjaro.
